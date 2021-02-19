@@ -4,7 +4,7 @@
 
 |   Name    | T-Camera Mini |
 | :-------: | :-----------: |
-|  DVP Y9   |      19       |
+|  DVP Y9   |      39       |
 |  DVP Y8   |      36       |
 |  DVP Y7   |      38       |
 |  DVP Y6   |      37       |
